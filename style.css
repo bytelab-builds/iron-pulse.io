@@ -212,6 +212,21 @@ img {
   border-color: var(--neon);
 }
 
+.feature-1:hover {
+  transform: translateY(-6px);
+  border-color: var(--neon);
+}
+
+.feature-2:hover {
+  transform: translateY(-6px);
+  border-color: var(--neon);
+}
+
+.feature-3:hover {
+  transform: translateY(-6px);
+  border-color: var(--neon);
+}
+
 .icon {
   display: block;
   font-size: 2.6rem;
